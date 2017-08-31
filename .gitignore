@@ -1,3 +1,28 @@
 *.espressostorage
 _site/*
 
+# Ignore IntelliJ files
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea
+
+# Ignore vim file
+*~
+*#
+
+.DS_Store
+
+# Ignore git's conflicts file.
+*.orig
+
+_site
+.sass-cache
+.jekyll-metadata
+
+
+.bundle/
+Gemfile
+Gemfile.lock
+vendor/

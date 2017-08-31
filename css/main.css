@@ -2,10 +2,10 @@
 	http://localhost:4000/css/main.css */
 
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:300,500,100,300italic);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
-@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
-@import url(http://fonts.googleapis.com/css?family=Raleway:800);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,500,100,300italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans+Mono);
+@import url(https://fonts.googleapis.com/css?family=Raleway:800);
 * {
     margin: 0px;
     padding: 0px;
@@ -107,8 +107,8 @@ p em {
     margin-top: -1.5em;
 }
 h2 {
-    font-size: 1.3em;
-    font-weight: 300;
+    font-size: 1.8em;
+    font-weight: 500;
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -195,7 +195,8 @@ a:hover {
     width: 100%
 }
 article p a {
-    border-bottom: 1px solid #e4edf9 font-weight: normal;
+    border-bottom: 1px solid #e4edf9;
+    font-weight: normal;
     font-style: normal;
 }
 .badge {
@@ -291,18 +292,22 @@ code {
 }
 .pager {
     padding-left: 0;
-    margin: 50px 0;
+    margin: 0px 0;
     text-align: center;
     list-style: none;
 }
 .pager li {
-    display: inline
+    display: inline;
 }
 .pager .previous a {
-    float: left
+    float: left;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 .pager .next a {
-    float: right
+    float: right;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 @media (min-width: 704px) {
 
@@ -326,4 +331,43 @@ code {
     pre {
 		font-size: 0.8em;
 	}
+}
+
+.social-icons {
+}
+
+.icons-right {
+    float: right;
+}
+
+.sharing-icons a {
+    padding-right: 10px;
+}
+
+.social-icons a {
+    color: #999;
+    font-size: 1rem;
+    padding-right: 10px;
+}
+
+@media (max-width: 30em) {
+    .social-icons {
+        float: left;
+        padding-top: 0.5rem;
+    }
+}
+
+.post-date {
+    display: block;
+    margin-bottom: 1rem;
+    color: #9a9a9a;
+    font-size:0.8rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center-this{
+    text-align: center;
 }

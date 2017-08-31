@@ -1,19 +1,27 @@
 # Jekyll Defaults
-title: blueface
-description: A small and simple site I made to test out Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Enjoy Code
+description:
+baseurl: # the subpath of your site, e.g. /blog
 
-url: "http://thien.io/blueface"
-github: http://github.com/tnguyen/blueface
+url: "https://s-petit.github.io"
+github:
+  url:               "https://s-petit.github.io"
+author:
+  name:              "Stéphane Petit"
+  email:             "stephane.petit95@gmail.com"
+  twitter:           "spetit95"
+  github:            "s-petit"
+  linkedin:          "stéphane-petit-a61b8b99"
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
-paginate: 4
+paginate: 5
 gems: [jekyll-paginate]
 paginate_path: "/page:num"
 rss_path: /feed.xml
+disqus: "enjoy-code"
 navigation:
-- text: About
+- text: A propos de l'auteur
   url: /about/
 - text: Archives
   url: /archives/

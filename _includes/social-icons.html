@@ -1,0 +1,15 @@
+<div class="social-icons">
+    {% if site.author.github %}
+    <a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true" target="_blank"></i></a>
+    {% endif %}
+    {% if site.author.twitter %}
+    <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i></a>
+    {% endif %}
+    {% if site.author.linkedin %}
+    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" target="_blank"></i></a>
+    {% endif %}
+    {% if site.author.email %}
+    <a href="mailto:{{ site.author.email }}" target="_blank"><i class="fa fa-envelope" aria-hidden="true" target="_blank"></i></a>
+    {% endif %}
+    <a href="{{ site.rss_path }}" target="_blank"><i class="fa fa-rss" aria-hidden="true" target="_blank"></i></a>
+</div>

@@ -3,7 +3,12 @@
 <nav>
 {% unless page.layout == 'front' %}
   <ul>
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ site.title }}</a></h1>
+  <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+
+      <div class="icons-right">
+          {% include social-icons.html %}
+      </div>
+
     {% for link in site.navigation %}
       {% assign current = nil %}
       {% if page.url == link.url or page.layout == link.layout %}
@@ -15,6 +20,7 @@
       </li>
     {% endfor %}
   </ul>
+
 {% endunless %}
 </nav>
 </div>
