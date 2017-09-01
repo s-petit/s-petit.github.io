@@ -9,7 +9,7 @@ group: navigation
     <div class="heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
     <p class="meta"><a class="permalink" href="{{ site.baseurl }}{{ post.url }}">&#9679;</a> {{ post.date | date_to_string }}</p>
     <div>
-        <p>{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Lire la suite</a></p>
+        <p>{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl }}{{ post.url }}">Lire la suite</a></p>
     </div>
     {% include tags.html %}
 </article>
