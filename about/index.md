@@ -25,4 +25,5 @@ Pour en savoir plus sur moi:
 - [Mon CV](cv.pdf){:target="_blank"}
 - [Mon Github](https://github.com/{{ site.author.github }}){:target="_blank"}
 - [Mon profil Linkedin](https://linkedin.com/in/{{ site.author.linkedin }}){:target="_blank"}
+- [Mon profil Malt](https://www.malt.fr/profile/stephanepetit){:target="_blank"}
 - [Mon Twitter](https://twitter.com/{{ site.author.twitter }}){:target="_blank"}
