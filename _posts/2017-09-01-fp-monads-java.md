@@ -453,30 +453,30 @@ Voici des articles que je recommande pour bien comprendre le sujet:
 
 ### Les Functors/Applicatives/Monads expliqués en images
 
-en : http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+en : <http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html>
 
-fr : http://www.leonardmeyer.com/blog/2014/06/functors-applicatives-et-monads-en-images/
+fr : <http://www.leonardmeyer.com/blog/2014/06/functors-applicatives-et-monads-en-images/>
 
 ### Mieux comprendre les Applicatives
 
-https://pbrisbin.com/posts/applicative_functors/
+<https://pbrisbin.com/posts/applicative_functors/>
 
 ### Mieux comprendre les Monads
 
-https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534
+<https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534>
 
-http://scabl.blogspot.fr/2013/02/monads-in-scala-1.html
+<http://scabl.blogspot.fr/2013/02/monads-in-scala-1.html>
 
 ### Implémenter des Monads en Java
 
-https://dzone.com/articles/functor-and-monad-examples-in-plain-java
+<https://dzone.com/articles/functor-and-monad-examples-in-plain-java>
 
 ### Les limites de Java
 
-http://jnape.com/the-perils-of-implementing-functor-in-java/
+<http://jnape.com/the-perils-of-implementing-functor-in-java/>
 
-https://stackoverflow.com/questions/35951818/why-can-the-monad-interface-not-be-declared-in-java
+<https://stackoverflow.com/questions/35951818/why-can-the-monad-interface-not-be-declared-in-java>
 
-https://dzone.com/articles/whats-wrong-java-8-part-iv
+<https://dzone.com/articles/whats-wrong-java-8-part-iv>
 
-https://www.sitepoint.com/how-optional-breaks-the-monad-laws-and-why-it-matters/
+<https://www.sitepoint.com/how-optional-breaks-the-monad-laws-and-why-it-matters/>
