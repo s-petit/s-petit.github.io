@@ -27,3 +27,6 @@ navigation:
   url: /archives/
 - text: Tags
   url: /tags/
+
+# May be useful in order to deploy future posts in localhost
+future: true
