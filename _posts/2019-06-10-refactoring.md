@@ -10,14 +10,19 @@ tags: [refactoring, pratiques, craftmanship]
 
 Dans cet article, j'aimerai parler d'un sujet qui m'est cher, la pratique du refactoring. Souvent mise en valeur par de nombreux ouvrages ou des communautés à forte sensibilité craft / clean code, au travers de discussions et autres katas, je me suis rendu compte au travers de mes expériences que cette pratique était bien trop peu pratiquée. Nous essaierons de comprendre pourquoi, ainsi que les conséquences d'un projet où le refactoring est peu pratiqué. Enfin, je donnerai quelques pistes faciles afin de 
 
-— POURQUOI — 
+— POURQUOI 1— 
 
+1. Ben parce que je trouve que le gens n'en font pas assez (pas l'envie ou le réflexe)
+2. Constaté lors de code review / pair / PR review / Diff historique GIT
+3. Le code a besoin de refactoring a chaque itération, malgré le mal que l'on se donne
+4. 
+5.  La dette se creuse bien plus vite —> plus une consequence qu'un pourquoi
 
+— POURQUOI 2— 
 
-1. ​	ben parce que je trouve que le gens n'en font pas assez (pas l'envie ou le réflexe)
-2. Manque de temps
-3. Manque de culture
-4. Parfois pas fun a faire (tests ?)
+1. Manque de temps
+2. Manque de culture
+3. Parfois pas fun a faire (tests ?)
 
 
 
