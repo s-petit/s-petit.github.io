@@ -23,6 +23,5 @@ _site
 
 
 .bundle/
-Gemfile
 Gemfile.lock
 vendor/
