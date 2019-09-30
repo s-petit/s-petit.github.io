@@ -1,8 +1,24 @@
 ---
 layout: post
-title: "Les alias, blabla"
+title: "Le terminal, l'"
 tags: [productivité, alias, unix]
 ---
+
+Dans notre quête perpétuelle d'accomplissement personnel (étudié notamment par Maslow et sa fameuse [pyramide](https://fr.wikipedia.org/wiki/Pyramide_des_besoins)), nous nous sommes tous fixés des objectifs à atteindre, qu'il soient personnels ou professionnels.
+
+Ces objectifs sont souvent jalonnés d'étapes et diverses tâches, qui sont elles-mêmes organisées et réalisées de façons très diverses selon les individus.
+
+
+
+la productivité est un composante essentielle.
+
+La productivité d'un développeur passe avant tout par sa maitrise du terminal
+
+IDE, méthodes type pomodoro, ok mais...
+
+postman, explorateur fichier os... extremement lent
+
+et de toutes facons, le terminal reste incontournable
 
 Aujourd'hui, je vais vous parler du rôle important
 
