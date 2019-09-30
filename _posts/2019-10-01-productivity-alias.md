@@ -35,7 +35,11 @@ anticipation (anticiper la tache et les futurs problemes)
 
 priorisation
 
+splitter / objectifs atteignables / reporter si besoin
+
 tout noter
+
+se faire rappeler 
 
 la productivité est un composante essentielle.
 
