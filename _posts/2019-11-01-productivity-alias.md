@@ -4,27 +4,15 @@ title: "Le terminal, l'"
 tags: [productivité, alias, unix]
 ---
 
-Dans notre quête perpétuelle d'accomplissement personnel (étudié notamment par Maslow et sa fameuse [pyramide](https://fr.wikipedia.org/wiki/Pyramide_des_besoins)), nous nous sommes tous fixés des objectifs à atteindre, qu'il soient personnels ou professionnels.
-
-Ces objectifs sont souvent jalonnés d'étapes et diverses tâches, qui sont elles-mêmes organisées et réalisées de façons très diverses selon les individus.
-
-Afin de pouvoir réaliser un maximum de ces objectifs dont la liste ne cesse de croître tout au long de notre vie, il faut sans cesse travailler sur un aspect selon moi fondamental : Notre **productivité**.
-
-Cette productivité nous aide à aller plus vite, à être plus efficace. A atteindre nos objectifs plus tôt. Le fait même de réaliser que nous progressons bien dans la réalisation de nos projets nous aide énormément à nous sentir mieux au quotidien.
-
-Cependant, plus nous avons d'objectifs, plus nous allons mettre du temps à les réaliser, pendant que de nouveaux projets vont arriver dans votre tête.
-
-
-Je travaille moi-même beaucoup sur ma productivité, ayant beaucoup d'objectifs pro et perso. 
-
 Etre plus efficace en tant que développeur m'aide a mieux faire mon métier et à progresser plus vite, ce qui m'aide dans ma quête 
+
 
 L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.
 
 But parler de productivité :
 
 - En general
-- Les outils possibles
+- Les outils possibles (personal kanban, gtd...)
 - Productivité du developpeur (alias, raccourcis)
 
 LA procrastination
