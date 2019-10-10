@@ -46,35 +46,42 @@ Une fois que vous vous êtes résolus a a voir de la discipline, il faut mainten
 
 et la rentrent les methodos et les outils.
 
+anticipation : De quoi ai je besoin opur realiser ma tache ? un num de tel ? une connexion internet ? un document en particulier ?(anticiper la tache et les futurs problemes)
 attention a la boite mail
 todolist
 gtd, kanbam...
 
-2. Optimiser, éviter la répétition
+
+discipline et organisation sont les maitres mots : 
+
+to myself :discipline / organisation sans doute trop abstrait, penser aux détails
+
+-> Procrastination
+-> Tout noter (todoist, gist...)
+-> Outils (prendre note, se faire rappeler, historiser)
+-> Anticipation
+-> Priorisation
+-> splitter / objectifs atteignables / reporter si besoin
+-> Optimisation / Amelioration
 
 
 
-Etre plus efficace en tant que développeur m'aide a mieux faire mon métier et à progresser plus vite, ce qui m'aide dans ma quête 
+3. Optimiser, éviter la répétition
+
+Le dernier point est probablement le plus difficile (--> discipline ?). Comme dans nos chères méthodes agiles, il faut savoir prendre du recul
+regulierement et se remettre en question dans le cas où des choses pourraient être ameliorees
+
+-> Ne plus se souvenir du detail d'une tache ? Tache pas assez detaillée
+-> Devoir (re)chercher un numero de telephone ? Penser a le noter
+-> Une tache est plus difficile a realiser 1 mois apres l'avoir reportée -> Procrastination
+
+Dès qu'une frustration ou une perte de temps apparaît, il y a sans doute des actions a prendre pour améliorer ceci
 
 
 L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.
 
-But parler de productivité :
+Articles suivants possibles :
 
-- En general
 - Les outils possibles (personal kanban, gtd...)
 - Productivité du developpeur (alias, raccourcis)
 
-LA procrastination
-
-organisaion
-
-anticipation (anticiper la tache et les futurs problemes)
-
-priorisation
-
-splitter / objectifs atteignables / reporter si besoin
-
-tout noter
-
-se faire rappeler 
