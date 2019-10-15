@@ -16,14 +16,14 @@ Cette productivité nous aide à aller plus vite, à être plus efficace. A atte
 Cependant, plus nous avons d'objectifs, plus nous allons mettre du temps à les réaliser, pendant que de nouveaux projets vont nous arriver à l'esprit.
 
 
-Je travaille moi-même beaucoup sur ma productivité, ayant beaucoup d'objectifs pro et perso. Au travers d'une série d'articles, je vais vous partager les quelques trucs qui m'ont permis d'atteindre un bon niveau de productivité et de garder un bon rythme de croisière.
+Je travaille moi-même beaucoup sur ma productivité, ayant beaucoup d'objectifs pro et perso. Au travers d'une série d'articles, je vais vous partager quelques trucs qui m'ont aidé à atteindre un niveau de productivité qui me convient et de garder un bon rythme de croisière.
 
-De nombreuses méthodes existent déja ([Personal Kanban](), [GTD](), [Inbox Zero]()) et j'avoue les connaître assez peu. Elles nécessitent justement du temps pour pouvoir lire les différents articles et livres et être opérationnel.
-De plus, je pense que chaque individu possède son propre mode de fonctionnement, et que les méthodes ne sont pas forcément adaptées a tout le monde.
+De nombreuses méthodes existent déja ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero)) et j'avoue les connaître assez peu. Cependant, au travers de différentes lectures, elles ont su influencer positivement sur ma façon de m'organiser. 
+Le tout est de comprendre les principes de base de les implémenter à sa sauce, plutot que de suivre aveuglément un certain nombre de méthodes et process. Il n'existe pas de recette magique, chaque individu possède son propre mode de fonctionnement et devra trouver par-lui même sa routine.
 
-Ma façon de fonctionner est assez minimaliste, et à défaut d'être optimale, elle me permet de dépiler un certain nombre de tâches a un bon rythme et de ne pas être frustré. Et elle dépend simplement de quelques principes fondamentaux de base, dont il faut etre conscient avant de pouvoir s'organiser a sa sauce.
+Ppur pouvoir y arriver, il faut cependant travailler en permanence sur certains de nos comportements, ce qui va nous permettre de progresser, et de pouvoir dépilerun certain nombre de tâches a un bon rythme sans être frustré
 
-Certains concepts sont sans aucun doute déjà repris dans ces autres méthodologies, tant elles reposent sur du bon sens. Je vais me permettre de partager ce qui me parait essentiel.
+Au final, tout est une question de discipline et d'organisation
 
 1. Procrastination / Discipline (en parler) / Rigueur
 
@@ -84,4 +84,11 @@ Articles suivants possibles :
 
 - Les outils possibles (personal kanban, gtd...)
 - Productivité du developpeur (alias, raccourcis)
+
+petit encart sur ma methode :
+GTD + Todoist
+Inbox Zero + boite mail 
+
+
+
 
