@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le terminal, l'"
+title: "Travailler sa productivité, une étape importante pour réaliser ses objectifs"
 tags: [productivité, alias, unix]
 ---
 
@@ -10,10 +10,11 @@ Ces objectifs sont souvent jalonnés d'étapes et diverses tâches, qui sont ell
 
 Afin de pouvoir réaliser un maximum de ces objectifs dont la liste ne cesse de croître tout au long de notre vie, il faut sans cesse travailler et progresser sur un aspect selon moi fondamental : Notre **productivité**.
 
-Cette productivité nous aide à aller plus vite, à être plus efficace. A atteindre nos objectifs plus tôt.
- -- ? Le fait même de réaliser que nous progressons bien dans la réalisation de nos projets nous aide énormément à nous sentir mieux au quotidien.
+Cette productivité nous aide à aller plus vite, à être plus efficace. A atteindre nos objectifs plus tôt. Chaque étape terminée offre un sentiment de satisfaction absolument grisant.
 
-Cependant, plus nous avons d'objectifs, plus nous allons mettre du temps à les réaliser, pendant que de nouveaux projets vont nous arriver à l'esprit.
+Cependant, plus nous avons d'objectifs, plus nous allons mettre du temps à les réaliser, pendant que de nouveaux projets vont nous arriver à l'esprit. Ce qui peut amener un effet inverse. On peut se sentir débordé par l'ampleur des tâches, voire déprimé lorsque l'on se sent stagner.
+
+C'est pour cela qu'il nous faut trouver un équilibre et un rythme sur mesure nou
 
 
 Je travaille moi-même beaucoup sur ma productivité, ayant beaucoup d'objectifs pro et perso. Au travers d'une série d'articles, je vais vous partager quelques trucs qui m'ont aidé à atteindre un niveau de productivité qui me convient et de garder un bon rythme de croisière.
@@ -42,7 +43,7 @@ Du coup, comment la reporter ? Comment être certains de ne pas l'oublier ? Comm
 
 2. Organisation 
 
-Une fois que vous vous êtes résolus a a voir de la discipline, il faut maintenant trouver des facons de faire qui peuvent vous aider a etre plus production
+Une fois que vous vous êtes résolus a avoir de la discipline, il faut maintenant trouver des facons de faire qui peuvent vous aider a etre plus production
 
 et la rentrent les methodos et les outils.
 
