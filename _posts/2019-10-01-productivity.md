@@ -1,95 +1,103 @@
----
-layout: post
-title: "Travailler sa productivité, une étape importante pour réaliser ses objectifs"
-tags: [productivité, alias, unix]
----
 
-Dans notre quête perpétuelle d'accomplissement personnel (étudié notamment par Maslow et sa fameuse [pyramide](https://fr.wikipedia.org/wiki/Pyramide_des_besoins)), nous nous sommes tous fixés des objectifs à atteindre, qu'il soient personnels ou professionnels.
+---  
+layout: post  
+title: "Pourquoi/Travailler sa productivité, une étape importante pour réaliser ses objectifs"  
+tags: [productivité, alias, unix]  
+---  
+  
+Dans notre quête perpétuelle d'accomplissement personnel (étudié notamment par Maslow et sa fameuse [pyramide](https://fr.wikipedia.org/wiki/Pyramide_des_besoins)), nous nous sommes tous fixés des objectifs à atteindre, qu'il soient personnels ou professionnels.  
+  
+Ces objectifs sont souvent jalonnés d'étapes et diverses tâches, qui sont elles-mêmes organisées et réalisées de façons très diverses selon les individus.  
+  
+Afin de pouvoir réaliser un maximum de ces objectifs dont la liste ne cesse de croître tout au long de notre vie, il faut sans cesse travailler et progresser sur un aspect selon moi fondamental : Notre **productivité**.  
+  
+Plus nous avons d'objectifs, plus nous allons mettre du temps à les réaliser, pendant que de nouveaux projets vont nous arriver à l'esprit. On peut vite se sentir débordé par l'ampleur des tâches, voire déprimé lorsque l'on se sent stagner.  
 
-Ces objectifs sont souvent jalonnés d'étapes et diverses tâches, qui sont elles-mêmes organisées et réalisées de façons très diverses selon les individus.
+C'est pour cela qu'une bonne productivité va nous aider à aller plus vite, à être plus efficace. A atteindre nos objectifs plus tôt. A nous offrir un sentiment de satisfaction pour chaque réalisation.  
 
-Afin de pouvoir réaliser un maximum de ces objectifs dont la liste ne cesse de croître tout au long de notre vie, il faut sans cesse travailler et progresser sur un aspect selon moi fondamental : Notre **productivité**.
+De nombreuses méthodes existent déja, notamment ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero))
+Elles ont toutes leurs spécificités, leurs avantages et inconvénients. Elles demandent surtout un certain investissement pour les appréhender, puis les appliquer. Et elles ne sont pas forcément adaptées à tout le monde.
+Avec du recul, je me suis rendu compte qu'il n'y avait pas de recette magique, chaque individu ayant son propre rythme, ses propres objectifs et mode de fonctionnement. L'enjeu selon moi est de trouver sa propre méthode, sa propre routine, celle qui sera sur mesure pour obtenir satisfaction sur l'accomplissement de ses objectigs et de son rythme.
 
-Cette productivité nous aide à aller plus vite, à être plus efficace. A atteindre nos objectifs plus tôt. Chaque étape terminée offre un sentiment de satisfaction absolument grisant.
+Comme un framework...
 
-Cependant, plus nous avons d'objectifs, plus nous allons mettre du temps à les réaliser, pendant que de nouveaux projets vont nous arriver à l'esprit. Ce qui peut amener un effet inverse. On peut se sentir débordé par l'ampleur des tâches, voire déprimé lorsque l'on se sent stagner.
+et j'avoue les connaître assez peu. Cependant, au travers de différentes lectures, elles ont su influencer positivement sur ma façon de m'organiser.   
+Le tout est de comprendre les principes de base de les implémenter à sa sauce, plutot que de suivre aveuglément un certain nombre de méthodes et process. Il n'existe pas de recette magique, chaque individu possède son propre mode de fonctionnement et devra trouver par-lui même sa routine.  
 
-C'est pour cela qu'il nous faut trouver un équilibre et un rythme sur mesure nou
-
-
-Je travaille moi-même beaucoup sur ma productivité, ayant beaucoup d'objectifs pro et perso. Au travers d'une série d'articles, je vais vous partager quelques trucs qui m'ont aidé à atteindre un niveau de productivité qui me convient et de garder un bon rythme de croisière.
-
-De nombreuses méthodes existent déja ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero)) et j'avoue les connaître assez peu. Cependant, au travers de différentes lectures, elles ont su influencer positivement sur ma façon de m'organiser. 
-Le tout est de comprendre les principes de base de les implémenter à sa sauce, plutot que de suivre aveuglément un certain nombre de méthodes et process. Il n'existe pas de recette magique, chaque individu possède son propre mode de fonctionnement et devra trouver par-lui même sa routine.
-
-Ppur pouvoir y arriver, il faut cependant travailler en permanence sur certains de nos comportements, ce qui va nous permettre de progresser, et de pouvoir dépilerun certain nombre de tâches a un bon rythme sans être frustré
-
-Au final, tout est une question de discipline et d'organisation
-
-1. Procrastination / Discipline (en parler) / Rigueur
-
-Au risque d'enfoncer des portes ouvertes, le plus grand ennemi de la productivité est la procrastination. C'est quelque chose que nous expérimentons tous au quotidien.
-Qu'il peut parfois être difficile de traîter une tâche alors que la journée est déjà bien remplie, ou que l'on peut faire des choses bien plus amusantes à la place !
-
-Et pourtant, combien de fois nous avons été pris au dépourvu par une tâche qui devient difficile ou urgente à effectuer alors qu'au moment où nous l'avions reportée, les conditions étaient idéales pour la faire.
-
-S'il est impossible selon moi d'arrêter totalement ce comportement, travailler pour le limiter le plus possible est indispensable pour avoir une productivité satisfaisante.
-
-La tâche est simple, rapide, et possible à faire immédiatement. Faites-là, un point c'est tout. Revenir dessus plus tard vous coutera plus cher à la faire. Le temps de se remettre dans le contexte et tout...
-
-Tant qu'une tâche ne peut être faite tout de suite pour de nombreuses raisons (complexité, manque de temps, fatigue...). Reportez-là à une date ultérieure raisonnable. Il est inutile de reporter à une date trop proche si vous etes surs que ce ne sera pas possible de toutes facons.
-
-Du coup, comment la reporter ? Comment être certains de ne pas l'oublier ? Comment la traiter dans les meilleurs conditions ? Pour cela, une autre composante est nécessaire: l'organisation
-
-2. Organisation 
-
-Une fois que vous vous êtes résolus a avoir de la discipline, il faut maintenant trouver des facons de faire qui peuvent vous aider a etre plus production
-
-et la rentrent les methodos et les outils.
-
-anticipation : De quoi ai je besoin opur realiser ma tache ? un num de tel ? une connexion internet ? un document en particulier ?(anticiper la tache et les futurs problemes)
-attention a la boite mail
-todolist
-gtd, kanbam...
-
-
-discipline et organisation sont les maitres mots : 
-
-to myself :discipline / organisation sans doute trop abstrait, penser aux détails
-
--> Procrastination
--> Tout noter (todoist, gist...)
--> Outils (prendre note, se faire rappeler, historiser)
--> Anticipation
--> Priorisation
--> splitter / objectifs atteignables / reporter si besoin
--> Optimisation / Amelioration
-
-
-
-3. Optimiser, éviter la répétition
-
-Le dernier point est probablement le plus difficile (--> discipline ?). Comme dans nos chères méthodes agiles, il faut savoir prendre du recul
-regulierement et se remettre en question dans le cas où des choses pourraient être ameliorees
-
--> Ne plus se souvenir du detail d'une tache ? Tache pas assez detaillée
--> Devoir (re)chercher un numero de telephone ? Penser a le noter
--> Une tache est plus difficile a realiser 1 mois apres l'avoir reportée -> Procrastination
-
-Dès qu'une frustration ou une perte de temps apparaît, il y a sans doute des actions a prendre pour améliorer ceci
-
-
-L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.
-
-Articles suivants possibles :
-
-- Les outils possibles (personal kanban, gtd...)
+Pour cela, il faut selon moi travailler sur 4 aspects fondamentaux, qui seront les fondations de votre future productivité, indépendamment des méthodes et outils que vous utiliserez.
+Je travaille moi-même beaucoup sur ma productivité, ayant beaucoup d'objectifs personnels et professionnels. Dans ma quête de productivité
+Au travers d'une série d'articles, je vais vous partager quelques trucs qui m'ont aidé à atteindre un niveau de productivité qui me convient et de garder un bon rythme de croisière.  
+  
+  
+Ppur pouvoir y arriver, il faut cependant travailler en permanence sur certains de nos comportements, ce qui va nous permettre de progresser, et de pouvoir dépilerun certain nombre de tâches a un bon rythme sans être frustré  
+  
+Au final, tout est une question de discipline et d'organisation. Je vais vous parler des points qui me paraissent essentiels dans cette quete du process perso parfait.  
+  
+**Discipline et organisation**  
+  
+discipline et organisation sont les maitres mots :   
+  
+1. Procrastination  
+  
+Au risque d'enfoncer des portes ouvertes, le plus grand ennemi de la productivité est la procrastination. C'est quelque chose que nous expérimentons tous au quotidien.  
+Qu'il peut parfois être difficile de traîter une tâche alors que la journée est déjà bien remplie, ou que l'on peut faire des choses bien plus amusantes à la place !  
+  
+Et pourtant, combien de fois nous avons été pris au dépourvu par une tâche qui devient difficile ou urgente à effectuer alors qu'au moment où nous l'avions reportée, les conditions étaient idéales pour la faire.  
+  
+S'il est impossible selon moi d'arrêter totalement ce comportement, travailler pour le limiter le plus possible est indispensable pour avoir une productivité satisfaisante.  
+  
+La tâche est simple, rapide, et possible à faire immédiatement. Faites-là, un point c'est tout. Revenir dessus plus tard vous coutera plus cher à la faire. Le temps de se remettre dans le contexte et tout...  
+  
+Tant qu'une tâche ne peut être faite tout de suite pour de nombreuses raisons (complexité, manque de temps, fatigue...). Reportez-là à une date ultérieure raisonnable. Il est inutile de reporter à une date trop proche si vous etes surs que ce ne sera pas possible de toutes facons.  
+  
+exemple de moi avec les billet blogs, comment se faire violence  
+  
+Du coup, comment la reporter ? Comment être certains de ne pas l'oublier ? Comment la traiter dans les meilleurs conditions ? Pour cela, une autre composante est nécessaire: l'organisation  
+  
+2. La prise de notes  
+  
+-> Tout noter (todoist, gist..., agenda)  
+-> Anticipation (au moment de prendre la tache, reflechir aux eventuelles contraintes et prérequis)  
+anticipation : De quoi ai je besoin opur realiser ma tache ? un num de tel ? une connexion internet ? un document en particulier ?(anticiper la tache et les futurs problemes)  
+-> Priorisation  
+-> splitter / objectifs atteignables / reporter si besoin  
+  
+  
+Une fois que vous vous êtes résolus a avoir de la discipline, il faut maintenant trouver des facons de faire qui peuvent vous aider a etre plus production  
+  
+3. Utiliser les bons outils et methodos  
+  
+-> Outils (prendre note, se faire rappeler, historiser, categoriser, organiser)  
+  
+gtd, kanbam...  
+Mail (attention)  
+TodoList  
+Agenda  
+Gist  
+Autres (DS Note...)  
+  
+  
+petit encart sur ma methode :  
+GTD + Todoist  
+Inbox Zero + boite mail   
+  
+4. Optimiser / Automatiser  
+  
+-> Optimisation / Amelioration  
+-> Ca aide d'etre developpeur, on peut se faire ses propres outils  
+  
+Le dernier point est probablement le plus difficile (--> discipline ?). Comme dans nos chères méthodes agiles, il faut savoir prendre du recul  
+regulierement et se remettre en question dans le cas où des choses pourraient être ameliorees  
+  
+-> Ne plus se souvenir du detail d'une tache ? Tache pas assez detaillée  
+-> Devoir (re)chercher un numero de telephone ? Penser a le noter  
+-> Une tache est plus difficile a realiser 1 mois apres l'avoir reportée -> Procrastination  
+  
+Dès qu'une frustration ou une perte de temps apparaît, il y a sans doute des actions a prendre pour améliorer ceci  
+  
+L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.  
+  
+Articles suivants possibles :  
+  
+- Les outils possibles (personal kanban, gtd...)  
 - Productivité du developpeur (alias, raccourcis)
-
-petit encart sur ma methode :
-GTD + Todoist
-Inbox Zero + boite mail 
-
-
-
-
