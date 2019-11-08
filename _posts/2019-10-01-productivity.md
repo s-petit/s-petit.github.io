@@ -49,6 +49,20 @@ exemple de moi avec les billet blogs, comment se faire violence
 Du coup, comment la reporter ? Comment être certains de ne pas l'oublier ? Comment la traiter dans les meilleurs conditions ? Pour cela, une autre composante est nécessaire: l'organisation  
   
 2. La prise de notes  
+
+Un autre aspect fondamental pour améliorer sa productivité, quelle que soit les méthodes que vous utiliserez, est selon moi **la prise de notes**.
+
+Il est impossible de retenir la multitude d'informations que vous glanerez au fur et à mesure. Peu importe les outils et le format utilisé, le plus important est de prendre note de tout ce que vous estimerez important ou utile. Et de pouvoir les retrouver facilement.
+
+Si c'est une tâche à faire, cela vous permettra entre autres d'avoir des rappels, et des informations permettant de se remettre plus vite dans le contexte.
+Si c'est une information, cela vous permettra de la retrouver en un temps très réduit.
+Si c'est une production, de capitaliser sur la reflexion en cours et de gagner du temps une fois revenu dans le contexte (ou j'en etais deja ? Pourquoi ai je fais ca ?)
+
+La prise de notes permet:
+
+- De se rappeler
+- De retrouver des infos
+- De compléter / formaliser / anticiper avec des infos complémentaires. (prioriser, splitter)
   
 -> Tout noter (todoist, gist..., agenda)  
 -> Anticipation (au moment de prendre la tache, reflechir aux eventuelles contraintes et prérequis)  
