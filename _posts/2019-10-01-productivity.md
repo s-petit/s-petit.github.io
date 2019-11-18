@@ -76,12 +76,16 @@ Peu importe le contexte, toute information ou idée qui vous paraît pertinente 
 
 Dernier point essentiel, il faut savoir régulièrement prendre du recul et se remettre en question afin de pouvoir optimiser notre productivité en atténuant au maximum les choses qui nous font perdre du temps.
 
+Si vous trouvez une tâche répétitive ou fastidieuse c'est qu'il existe probablement un moyen de l'optimiser
+Dès qu'une frustration ou une perte de temps apparaît, il y a sans doute des actions a prendre pour améliorer ceci  
+
+
 Quelques exemples que j'ai personnellement vécu :
   
 - Devoir faire une tâche à une date donnée, sans se souvenir de détails importants. La prise de notes n'a pas été assez rigoureuse et la tâche est insuffisamment detaillée (le quoi et le pourquoi). 
 
--- "Appeler Jean" -> Pourquoi dois-je l'appeler déjà ?
--- "Article blog productivité" -> Qu'est ce que je voulais dire dans ce billet ?
+..* "Appeler Jean" -> Pourquoi dois-je l'appeler déjà ?
+..* "Article blog productivité" -> Qu'est ce que je voulais dire dans ce billet ?
 
 - Devoir retrouver un numero de telephone ou un site web dont j'ai régulièrement besoin sans le noter quelque part.
 
@@ -90,11 +94,7 @@ Quelques exemples que j'ai personnellement vécu :
 
 idée de tache repetitive que j'ai optimisée  
   
-Dès qu'une frustration ou une perte de temps apparaît, il y a sans doute des actions a prendre pour améliorer ceci  
-  
-L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.  
 
- 
  
  --> / Automatiser  
   
@@ -139,3 +139,7 @@ Au travers d'une série d'articles, je vais vous partager quelques trucs qui m'o
 Si la tâche est plus complexe ou fastidieuse, c'est un peu plus compliqué 
 
 exemple de moi avec les billet blogs, comment se faire violence  
+
+  
+L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.  
+Parler du devoir faire et envie de faire ?
