@@ -72,10 +72,15 @@ Concernant les tâches, elle permet notamment de:
 Peu importe le contexte, toute information ou idée qui vous paraît pertinente mérite d'être notée. Et le retour sur investissement est vraiment très rapide. Une fois que l'on prend l'habitude, cela change vraiment la vie !
 
   
-3. Optimiser
+3. Optimisation
 
-Dernier point essentiel, il faut savoir régulièrement prendre du recul et se remettre en question afin de pouvoir optimiser notre productivité en atténuant au maximum les choses qui nous font perdre du temps.
+Le dernier point que j'estime essentiel, c'est le fait de régulièrement prendre du recul et se remettre en question afin de pouvoir optimiser notre productivité.
 
+Même en ayant trouvé l'organisation qui vous convient, il y aura forcément des situations qui auront généré de la frustration ou de la perte de temps.
+
+C'est normal, et cela arrivera continuellement. Le tout est de pouvoir s'améliorer en continu, à l'instar de ce que propose la plupart des méthodes agiles.
+
+en atténuant au maximum les choses qui nous font perdre du temps.
 Si vous trouvez une tâche répétitive ou fastidieuse c'est qu'il existe probablement un moyen de l'optimiser
 Dès qu'une frustration ou une perte de temps apparaît, il y a sans doute des actions a prendre pour améliorer ceci  
 
