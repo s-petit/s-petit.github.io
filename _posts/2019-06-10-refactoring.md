@@ -8,7 +8,11 @@ tags: [refactoring, pratiques, craftmanship]
 
 — INTRO — JE VEUX PARLER DE REFACTO
 
-Dans cet article, j'aimerai parler d'un sujet qui m'est cher, la pratique du refactoring. Souvent mise en valeur par de nombreux ouvrages ou des communautés à forte sensibilité craft / clean code, au travers de discussions et autres katas, je me suis rendu compte au travers de mes expériences que cette pratique était bien trop peu pratiquée. Nous essaierons de comprendre pourquoi, ainsi que les conséquences d'un projet où le refactoring est peu pratiqué. Enfin, je donnerai quelques pistes faciles afin de 
+Dans cet article, j'aimerai parler d'un sujet qui m'est cher, le refactoring. Cette pratique, souvent mise en valeur par de nombreux ouvrages et communautés, a pour but d'améliorer la qualité de son code à posteriori, en améliorant notamment sa simplicité ou sa lisibilité. La finalité étant de rendre le code plus robuste et facile à faire évoluer. 
+
+
+
+est quotidiennement, au travers de discussions et autres katas, je me suis rendu compte au travers de mes expériences que cette pratique était bien trop peu pratiquée / pas assez régulièrement. Nous essaierons de comprendre pourquoi, ainsi que les conséquences d'un projet où le refactoring est peu pratiqué. Enfin, je donnerai quelques pistes faciles afin de 
 
 — POURQUOI 1— 
 
@@ -30,9 +34,10 @@ trop de pression / timing
 
 — POURQUOI 2— 
 
-1. Manque de temps
+1. Manque de temps + long + cher (mais investissment long terme)
 2. Manque de culture
 3. Parfois pas fun a faire (tests ?)
+4. La peur de casser
 
 - POURQUOI FAIRE - 
 
@@ -43,36 +48,36 @@ trop de pression / timing
  Gagner du temps lors des code review
  Attenuer la dette (on crée de la dette quoiqu'il arrive)
  Rendre la code base plus facile a gerer pour les futurs devs
- 
+
  - JUSQU OU ALLER - bon et mauvais refacto, pieges a eviter.
- 
+
  - Trop refactorer ( rapport temps / complexité / benefice)
  - Refactorer sur des hypotheses ou du futur
  - Refactorer avant d'avoir mis en place la solution basique qui marche, refactorer trop tot
  - La simplicité et la lisbilité avant tout
- 
+
  -- SYMPTOMES D'UN CODE NON REFACTORE 
- 
+
  **Symptomes**
- 
+
  Classes Longues
- 
+
  Classes difficiles a lire
- 
+
  Tests fragiles
- 
+
  Classes difficiles a faire evoluer
- 
+
  Duplication de code
- 
+
  Nommages pas clairs
- 
+
  Trop de  Responsabilite  - cohesion
- 
+
  Couplage fort
- 
+
  Code pas forcement placé dans la bonne classe
- 
+
  En general, on a pas le reflexe de créer de nouvelles classes
 
 
@@ -159,6 +164,10 @@ Splitter les classes
 
 
 
+faire des katas ? -> Gilded Rose
+
+
+
 --- CONCLUSION
 
 ---------------------------------------------------------------------------------------
@@ -205,7 +214,7 @@ regle du boy scout
 
 encourager ses pairs a refactorer
 
-
+il m'arrive souvent d'avoir besoin de refactorer l'existant avant d'attaquer le dev. Il vaut mieux : Finir le dev, refactorer l'existant, et si possible, l'isoler dans un commit / PR séparé.
 
 
 
