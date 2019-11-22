@@ -76,52 +76,41 @@ Peu importe le contexte, toute information ou idée qui vous paraît pertinente 
 
 Le dernier point que j'estime essentiel, c'est le fait de régulièrement prendre du recul et se remettre en question afin de pouvoir optimiser notre productivité.
 
-Même en ayant trouvé l'organisation qui vous convient, il y aura forcément des situations qui auront généré de la frustration ou de la perte de temps.
+Même en ayant trouvé l'organisation qui vous convient, il y aura forcément des situations qui auront généré de la frustration (perte de temps, lassitude, à cause du côté répétitif, fastidieux de la tâche).alors il y a probablement quelque chose à faire pour atténuer cela.
 
 C'est normal, et cela arrivera continuellement. Le tout est de pouvoir s'améliorer en continu, à l'instar de ce que propose la plupart des méthodes agiles.
 
-Dès lors que vous estimez qu'une tâche a généré en vous de la frustration (perte de temps, répétitivité...) alors il y a probablement quelque chose à faire pour atténuer cela.
-
 La plupart du temps, ces frustrations sont fortement liées aux deux points ci-dessus. Une prise de notes insuffisante ou un report inopportun pourra rendre un certain nombre de vos tâches plus pénibles.
 
-Le caractère répétitif ou fastidieux d'une tâche peut souvent être amélioré avec une utilisation plus adaptées des nombreux outils qui existent. En tant que développeurs, nous pouvons également développer des petits scripts ou applications sur mesure permettant de nous simplifier la vie. Par exemple, en cherchant à obtenir des rappels par email pour les anniversaires de mes proches, 
+Le caractère répétitif ou fastidieux d'une tâche peut souvent être amélioré avec une utilisation plus adaptée des nombreux outils qui existent. Connaissez-vous toutes les fonctionnalités qu'ils proposent ? L'utilisez-vous de façon optimale ? Êtes-vous assez précis dans la saisie de votre tâche et de son rappel automatique ?
+
+En tant que développeur, nous pouvons également développer des petits scripts ou applications sur mesure permettant de nous simplifier la vie. 
+J'ai moi-même développé un [petit utilitaire sur-mesure](https://github.com/s-petit/birthday-pal) pour ne jamais oublier les anniversaires de mes proches. Il me permet de me libérer l'esprit, de mieux anticiper, et donc, d'être plus productif.
+
+Encore une fois, il n'y a pas de recette miracle. Une fois que vous seriez conscients que certaines routines peuvent être améliorées, vous trouverez naturellement les solutions qui vous permettront de les optimiser ou automatiser
 
 
-
-Par exemple, combien de fois je me suis retrouvé à devoir traiter une tâche sans me rappeler du contexte, ou d'informations nécessaire
-
-- ​	
-
-
-
-
-Quelques exemples que j'ai personnellement vécu :
-
-- Devoir faire une tâche à une date donnée, sans se souvenir de détails importants. La prise de notes n'a pas été assez rigoureuse et la tâche est insuffisamment detaillée (le quoi et le pourquoi). 
-
-..* "Appeler Jean" -> Pourquoi dois-je l'appeler déjà ?
-..* "Article blog productivité" -> Qu'est ce que je voulais dire dans ce billet ?
-
-- Devoir retrouver un numero de telephone ou un site web dont j'ai régulièrement besoin sans le noter quelque part.
-
-- Reporter l'ouverture d'un courrier et manquer de temps pour le traiter avant le délai requis -> Procrastination
-- Reporter une tâche jusqu'au dernier moment pour finalement ne pas être en capacité de la traiter le dernier jour -> Procrastination
-
-idée de tache repetitive que j'ai optimisée  
-
-
-
- --> / Automatiser  
-
--> Optimisation / Amelioration  
--> Ca aide d'etre developpeur, on peut se faire ses propres outils  
+## Utiliser les bons outils et methodos  
 
 Une fois que vous avez ces 3 points bien en tête, il vous reste à trouver les outils et méthodes qui vous conviendront le mieux.
 
-4. Utiliser les bons outils et methodos  
-  
+Ces outils vous seront indispensables pour vous assister dans votre organisation personnelle et booster la productivité. Leurs apports sont nombreux, avec entre autres :
 
--> Outils (prendre note, se faire rappeler, historiser, categoriser, organiser)  
+- Aider à la prise de notes, si importante
+- Se faire rappeler
+- Historiser / Archiver
+- Catégoriser / Prioriser
+- Anticiper
+
+C'est à vous de trouver quels outils sont les plus adaptés à votre besoin. Je vais vous partager une liste non exhaustive des outils que je connais et trouve intéressants
+
+- Méthodes (GTD, Personal Kanban, Inbox Zero)
+- Prise de notes (Drive, Gist, Ds Note, Keep...)
+- Mail / Agenda / Contacts (Fastmail, G*****)
+- TODOLIST : Todoist
+- Trello, Basecamp...
+
+Notre G**** préféré propose un bon nombre de ces outils, mais...
 
 gtd, kanbam...  
 Mail (attention)  
