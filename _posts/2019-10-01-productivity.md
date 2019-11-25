@@ -71,6 +71,7 @@ Concernant les tâches, elle permet notamment de:
 
 Peu importe le contexte, toute information ou idée qui vous paraît pertinente mérite d'être notée. Et le retour sur investissement est vraiment très rapide. Une fois que l'on prend l'habitude, cela change vraiment la vie !
 
+PARLER DE L'ORGANISATION EN GENERAL ? Le fait de bien ranger ses fichiers, dossiers ???????????????????????????????? hyper important frere
 
 3. Optimisation
 
@@ -104,21 +105,16 @@ Ces outils vous seront indispensables pour vous assister dans votre organisation
 
 C'est à vous de trouver quels outils sont les plus adaptés à votre besoin. Je vais vous partager une liste non exhaustive des outils que je connais et trouve intéressants
 
-- Méthodes (GTD, Personal Kanban, Inbox Zero)
-- Prise de notes (Drive, Gist, Ds Note, Keep...)
-- Mail / Agenda / Contacts (Fastmail, G*****)
-- TODOLIST : Todoist
-- Trello, Basecamp...
+Disclaimer données personnelles ?
+Notre G**** préféré propose un bon nombre de ces outils, mais...//
 
-Notre G**** préféré propose un bon nombre de ces outils, mais...
+- Méthodes ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero))
+- Prise de notes : Il existe des dizaines de solutions en ligne et hors ligne pour saisir du texte, mais j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simplicité et son côté accessible de partout. Sinon, n'importe quelle solution de Drive (J'utilise celle de [Synology](https://www.synology.com/en-us/dsm/feature/drive)) fait l'affaire.
+- Mail / Agenda / Contacts : On peut utiliser des solutions différentes pour ces 3 aspects, mais je trouve bien plus les solutions "tout-en-un" bien plus efficaces. [Fastmail](https://www.fastmail.com) marche très bien.
+- TODOLIST : [Todoist](https://todoist.com) est pour moi une des solutions les plus complètes du marché. La version premium est payante mais apporte un vrai plus dans la gestion des tâches. Elle facilite notamment la prise de notes relative aux tâches que vous devez traiter.
+- Stockage / Organisation: Egalement, il existe de nombreuses solutions de stockage de fichiers, notamment dans le Cloud. Personnellement, j'utilise un NAS Synology qui me satisfait pleinement et qui me permet de garder le contrôle de mes données. 
 
-gtd, kanbam...  
-Mail (attention)  
-TodoList  
-Agenda  
-Gist  
-Autres (DS Note...)  
--> Tout noter (todoist, gist..., agenda)  
+J'apprécie également des outils comme Trello ou encore Basecamp qui sont très bien faits, mais qui sont selon moi plus adaptés à une utilisation collaborative.
 
 
 petit encart sur ma methode :  
@@ -148,3 +144,13 @@ exemple de moi avec les billet blogs, comment se faire violence
 
 L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.  
 Parler du devoir faire et envie de faire ?
+
+
+
+gtd, kanbam...  
+Mail (attention)  
+TodoList  
+Agenda  
+Gist  
+Autres (DS Note...)  
+-> Tout noter (todoist, gist..., agenda)  
