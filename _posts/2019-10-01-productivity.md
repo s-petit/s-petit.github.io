@@ -103,24 +103,30 @@ Ces outils vous seront indispensables pour vous assister dans votre organisation
 - Catégoriser / Prioriser
 - Anticiper
 
-C'est à vous de trouver quels outils sont les plus adaptés à votre besoin. Je vais vous partager une liste non exhaustive des outils que je connais et trouve intéressants
+C'est à vous de trouver quels outils sont les plus adaptés à votre besoin. 
 
-Disclaimer données personnelles ?
-Notre G**** préféré propose un bon nombre de ces outils, mais...//
+Toutes les données concernant notre productivité et nos tâches sont extrêmement personnelles. 
+J'essaie de limiter les GAFAM au maximum, et de privilégier les solutions auto-hébergées plutôt que le Cloud. 
+C'est pour cela que j'utilise des outils proposés par mon NAS ou en SAAS par des sociétés plus modestes. 
+Evidemment, votre Géant de l'Internet préféré propose des outils équivalents, mais je vous conseille vivement de réfléchir à 2 fois avant de leur confier vos données.
+
+Sinon j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simplicité et son côté accessible de partout. Sinon, 
 
 - Méthodes ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero))
-- Prise de notes : Il existe des dizaines de solutions en ligne et hors ligne pour saisir du texte, mais j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simplicité et son côté accessible de partout. Sinon, n'importe quelle solution de Drive (J'utilise celle de [Synology](https://www.synology.com/en-us/dsm/feature/drive)) fait l'affaire.
+- Prise de notes : Il existe des dizaines de solutions en ligne et hors ligne pour saisir du texte, donc n'importe quelle solution de Drive (J'utilise celle de [Synology](https://www.synology.com/en-us/dsm/feature/drive)) fait l'affaire.
 - Mail / Agenda / Contacts : On peut utiliser des solutions différentes pour ces 3 aspects, mais je trouve bien plus les solutions "tout-en-un" bien plus efficaces. [Fastmail](https://www.fastmail.com) marche très bien.
 - TODOLIST : [Todoist](https://todoist.com) est pour moi une des solutions les plus complètes du marché. La version premium est payante mais apporte un vrai plus dans la gestion des tâches. Elle facilite notamment la prise de notes relative aux tâches que vous devez traiter.
 - Stockage / Organisation: Egalement, il existe de nombreuses solutions de stockage de fichiers, notamment dans le Cloud. Personnellement, j'utilise un NAS Synology qui me satisfait pleinement et qui me permet de garder le contrôle de mes données. 
 
-J'apprécie également des outils comme Trello ou encore Basecamp qui sont très bien faits, mais qui sont selon moi plus adaptés à une utilisation collaborative.
+J'apprécie également des outils comme [Trello](https://trello.com/) ou encore [Basecamp](https://basecamp.com/) qui sont très bien faits, mais qui sont selon moi plus adaptés à une utilisation collaborative.
 
+## Petit encart sur ma methode
 
-petit encart sur ma methode :  
-GTD + Todoist  
-Inbox Zero + boite mail   
+tourne autour des mails et de la todolist.
 
+attention, le mail n'est pas une todolist. Maias certains mails peuvent necessiter une action de votre part ou attente de retour 
+
+Personnellement, j'essaie d'avoir le moins de taches et mails possibles en cours, j'essaie de les traiter tout de suite.
 
 Articles suivants possibles :  
 
@@ -154,3 +160,6 @@ Agenda
 Gist  
 Autres (DS Note...)  
 -> Tout noter (todoist, gist..., agenda)  
+
+
+Sinon j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simplicité et son côté accessible de partout. Sinon, 
