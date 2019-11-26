@@ -144,16 +144,17 @@ Cela permet de libérer l'esprit, de donner l'impression d'avancer tout en ayant
 
 Mais tout tourne autour d'une bonne organisation et de la non-procrastination. ---> CONCLUSION ?
 
-A voir si il ne faut pas minimiser la prise de ntoes au profit de l'organisation !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 Mais encore une fois, ce n'est pas forcément la méthode la plus optimale ou adaptée pour tout le monde. C'est simplement celle qui me permet de booster ma productivité tout en générant le moins de frustration possible.
 
+### Trouver son "rythme"
 
+La notion de productivité est quelque chose de personnel, et le besoin d'efficacité est très différents selon les individus. Certains sont très instinctifs et se complaisent dans l'improvisation, en gardant un haut niveau d'efficacité.
+La quantité de tâches et d'objectifs nécessaires à un sentiment d'accomplissement suffisant est aussi très variable.
 
-Articles suivants possibles :  
+Je pense malgré tout que malgré nos différences, nous recherchons tous d'une façon ou d'une autre un équilibre personnel / professionnel, et souhaitons consacrer le plus de temps possible pour des choses que nous aimons faire.
+C'est là que l'amélioration de la productivité peut aider. D'autant plus que nous ne sommes pas des robots, et notre capacité et temps dédiés à produire reste limité, ce qui peut amener de la fatigue, du surmenage ou encore de la frustration. 
 
-- Les outils possibles (personal kanban, gtd..., trello, basecamp, gist)  
-- Productivité du developpeur (alias, raccourcis)
+J'expose ici les comportements qui me semblemt indispensables pour progresser...
 
 #### Bac a sable
 
@@ -194,3 +195,11 @@ Sinon j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simpl
 attention, le mail n'est pas une todolist. Maias certains mails peuvent necessiter une action de votre part ou attente de retour 
 
 Personnellement, j'essaie d'avoir le moins de taches et mails possibles en cours, j'essaie de les traiter tout de suite.
+
+
+Articles suivants possibles :  
+
+- Les outils possibles (personal kanban, gtd..., trello, basecamp, gist)  
+- Productivité du developpeur (alias, raccourcis)
+
+A la base, je voulais ecrire un article sur le terminal, mais...
