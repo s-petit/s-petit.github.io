@@ -45,12 +45,25 @@ Si une tâche ne peut pas être faite tout de suite pour de nombreuses raisons (
 Il est inutile de reporter pour une date trop proche si l'on est quasi certain qu'on ne la fera pas à ce moment là. Tout en gardant en tête que plus on attendra, plus elle sera difficile à réaliser ! 
 
 En revanche, il est évident qu'il n'est régulièrement pas possible de réaliser une tâche immédiatement. Il existe de nombreux moyens d'atténuer le malus de productivité apporté par le report d'une tâche.
-Comment la reporter ? Être certain de ne pas l'oublier, et de la traiter Le plus efficacement possible ? La clé, c'est une organisation rigoureuse, qui passe forcément par l'étape de **la prise de notes**.
+Comment la reporter ? Être certain de ne pas l'oublier, et de la traiter Le plus efficacement possible ? La clé, c'est une organisation rigoureuse.
 
-2. La prise de notes
+
+///////////, qui passe forcément par l'étape de **la prise de notes**.
+
+2. Organisation & gestion des informations 
 
 Cette étape est selon moi un autre aspect indispensable pour améliorer sa productivité, quelle que soient les méthodes que vous utiliserez.
 
+Il est primordial de pouvoir stocker, regrouper et classer tous vos documents papier et votre vie numérique. Le tout est de retrouver tous vos documents facilement. 
+
+Pièces d'identité, Fiches de paie, relevés bancaires et d'imposition, et tant d'autres documents font partie de ces informations que vous devez absolument trier et ranger.
+Les numériser ou encore les rendre disponibles sur Internet est un grand plus, afin de pouvoir les retrouver, peu importe la date et l'endroit où vous vous situez.
+
+De manière générale, plus votre ordinateur sera organisé, plus vous serez efficace. 
+Pour vérifier cela il suffit de regarder vos répertoires les plus utilisés, comme le Bureau, les documents, les téléchargements. Idéalement, ces dossiers fourre-tout devraient être vides. 
+Si un fichier est important pour vous, alors vous saurez forcément ou le ranger. Sinon, il faut le supprimer immédiatement.
+
+Une autre composante importante pour une bonne organisation réside dans une prise de notes rigoureuse.
 Il est impossible de retenir la multitude d'informations que vous glanerez au fur et à mesure. Et la mémoire se dégrade au fil de temps.
 
 Peu importe les outils et le format utilisé, il est essentiel de noter et de pouvoir retrouver facilement tout ce que vous estimerez important ou utile.
@@ -62,24 +75,8 @@ Si c'est une production intellectuelle en cours, cela vous permettra de capitali
 Une prise de notes régulière possède beaucoup d'autres avantages.
 
 Sur les idées et informations, elle permet une formalisation et une mise en forme qui leur apporte encore plus de valeur. Et en général, on enrichit ces données avec des informations complémentaires. 
-Concernant les tâches, elle permet notamment de:
-
-- Anticiper les futurs besoins et problématiques liés a l'execution de la tâche ("De quoi ai-je besoin pour cette tâche ?")
-- Prioriser selon des critères d'importance qui vous sont propres 
-- Organiser en sous-tâches et objectifs plus raisonnables, et ainsi pouvoir les reporter.
 
 Peu importe le contexte, toute information ou idée qui vous paraît pertinente mérite d'être notée. Et le retour sur investissement est vraiment très rapide. Une fois que l'on prend l'habitude, cela change vraiment la vie !
-
-3. Organisation de la vie numérique
-
-Afin de pouvoir gagner en efficacité, il est primordial de regrouper et classer tous vos documents papier et votre vie numérique. Le tout est de pouvoir retrouver tous vos documents facilement. 
-
-Pièces d'identité, Fiches de paie, relevés bancaires et d'imposition, et tant d'autres documents font partie de ces informations que vous devez absolument trier et ranger.
-Les numériser ou encore les rendre disponibles sur Internet est un grand plus, afin de pouvoir les retrouver, peu importe la date et l'endroit où vous vous situez.
-
-De manière générale, plus votre ordinateur sera organisé, plus vous serez efficace. 
-Pour vérifier cela il suffit de regarder vos répertoires les plus utilisés, comme le Bureau, les documents, les téléchargements. Idéalement, ces dossiers fourre-tout devraient être vides. 
-Si un fichier est important pour vous, alors vous saurez forcément ou le ranger. Sinon, il faut le supprimer immédiatement.
 
 3. Optimisation
 
@@ -99,14 +96,13 @@ Il me permet de me libérer l'esprit, de mieux anticiper, et donc, d'être plus 
 
 Encore une fois, il n'y a pas de recette miracle. Une fois que vous seriez conscients que certaines routines peuvent être améliorées, vous trouverez naturellement les solutions qui vous permettront de les optimiser ou automatiser
 
-
 ## Utiliser les bons outils et methodos  
 
 Une fois que vous avez ces 3 points bien en tête, il vous reste à trouver les outils et méthodes qui vous conviendront le mieux.
 
 Ces outils vous seront indispensables pour vous assister dans votre organisation personnelle et booster la productivité. Leurs apports sont nombreux, avec entre autres :
 
-- Aider à la prise de notes, si importante
+- Aider à la prise de notes
 - Se faire rappeler
 - Historiser / Archiver
 - Catégoriser / Prioriser
@@ -133,7 +129,7 @@ J'apprécie également des outils comme [Trello](https://trello.com/) ou encore 
 
 Personnellement, ma méthodologie se base donc sur les principes que je cite ci-dessus.
 
-Elle n'a rien de compliqué, elle consiste à tenter d'être le plus minimaliste possible et de supprimer un maximum de bruit, dans un monde où nous sommes submergés d'informations.
+Elle n'a rien de compliquée, elle consiste à tenter d'être le plus minimaliste possible et de supprimer un maximum de bruit, dans un monde où nous sommes submergés d'informations.
 
 Que ce soit dans ma boîte de reception, le stockage de mes fichiers, ou encore ma liste de tâches, je cherche à ce que le nombre d'éléments "en cours" tende vers zéro.
 
@@ -144,7 +140,7 @@ Une boîte de réception avec des milliers d'emails non lus est totalement contr
 
 On peut faire une analogie avec le cerveau. Dès que j'ai une idée ou une tâche ultérieure à effectuer, j'évite l'accumulation d'informations aussi vite que possible en créant une tâche ou en prenant des notes.
 
-Cela à pour but de me libérer l'esprit, de me donner l'impression d'avancer tout en ayant une productivité intéressante.
+Cela permet de libérer l'esprit, de donner l'impression d'avancer tout en ayant une productivité intéressante.
 
 Mais tout tourne autour d'une bonne organisation et de la non-procrastination. ---> CONCLUSION ?
 
@@ -177,7 +173,11 @@ exemple de moi avec les billet blogs, comment se faire violence
 L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.  
 Parler du devoir faire et envie de faire ?
 
+Concernant les tâches, elle permet notamment de:
 
+- Anticiper les futurs besoins et problématiques liés a l'execution de la tâche ("De quoi ai-je besoin pour cette tâche ?")
+- Prioriser selon des critères d'importance qui vous sont propres 
+- Organiser en sous-tâches et objectifs plus raisonnables, et ainsi pouvoir les reporter.
 
 gtd, kanbam...  
 Mail (attention)  
