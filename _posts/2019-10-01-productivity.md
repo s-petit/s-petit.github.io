@@ -30,7 +30,6 @@ Pour pouvoir y arriver, il faut travailler en permanence certains de nos comport
 Au final, tout est une question de discipline et d'organisation. Voici les 4 (plutot 3 + choix des outils ?) aspects qui me paraîssent essentiels pour progresser dans notre productivité personnelle.
 
 1. Procrastination  
-  
 
 Au risque d'enfoncer des portes ouvertes, le plus grand ennemi de la productivité est la procrastination. C'est quelque chose que nous expérimentons tous au quotidien.  
 Qu'il peut parfois être difficile de traîter une tâche alors que la journée est déjà bien remplie, ou que l'on peut faire des choses bien plus intéressantes à la place !  
@@ -48,9 +47,9 @@ Il est inutile de reporter pour une date trop proche si l'on est quasi certain q
 En revanche, il est évident qu'il n'est régulièrement pas possible de réaliser une tâche immédiatement. Il existe de nombreux moyens d'atténuer le malus de productivité apporté par le report d'une tâche.
 Comment la reporter ? Être certain de ne pas l'oublier, et de la traiter Le plus efficacement possible ? La clé, c'est une organisation rigoureuse, qui passe forcément par l'étape de **la prise de notes**.
 
-2. La prise de notes  
+2. La prise de notes
 
-Cette étape est selon moi un autre aspect indispensable pour améliorer sa productivité, quelle que soit les méthodes que vous utiliserez.
+Cette étape est selon moi un autre aspect indispensable pour améliorer sa productivité, quelle que soient les méthodes que vous utiliserez.
 
 Il est impossible de retenir la multitude d'informations que vous glanerez au fur et à mesure. Et la mémoire se dégrade au fil de temps.
 
@@ -71,7 +70,16 @@ Concernant les tâches, elle permet notamment de:
 
 Peu importe le contexte, toute information ou idée qui vous paraît pertinente mérite d'être notée. Et le retour sur investissement est vraiment très rapide. Une fois que l'on prend l'habitude, cela change vraiment la vie !
 
-PARLER DE L'ORGANISATION EN GENERAL ? Le fait de bien ranger ses fichiers, dossiers ???????????????????????????????? hyper important frere
+3. Organisation de la vie numérique
+
+Afin de pouvoir gagner en efficacité, il est primordial de regrouper et classer tous vos documents papier et votre vie numérique. Le tout est de pouvoir retrouver tous vos documents facilement. 
+
+Pièces d'identité, Fiches de paie, relevés bancaires et d'imposition, et tant d'autres documents font partie de ces informations que vous devez absolument trier et ranger.
+Les numériser ou encore les rendre disponibles sur Internet est un grand plus, afin de pouvoir les retrouver, peu importe la date et l'endroit où vous vous situez.
+
+De manière générale, plus votre ordinateur sera organisé, plus vous serez efficace. 
+Pour vérifier cela il suffit de regarder vos répertoires les plus utilisés, comme le Bureau, les documents, les téléchargements. Idéalement, ces dossiers fourre-tout devraient être vides. 
+Si un fichier est important pour vous, alors vous saurez forcément ou le ranger. Sinon, il faut le supprimer immédiatement.
 
 3. Optimisation
 
@@ -86,7 +94,8 @@ La plupart du temps, ces frustrations sont fortement liées aux deux points ci-d
 Le caractère répétitif ou fastidieux d'une tâche peut souvent être amélioré avec une utilisation plus adaptée des nombreux outils qui existent. Connaissez-vous toutes les fonctionnalités qu'ils proposent ? L'utilisez-vous de façon optimale ? Êtes-vous assez précis dans la saisie de votre tâche et de son rappel automatique ?
 
 En tant que développeur, nous pouvons également développer des petits scripts ou applications sur mesure permettant de nous simplifier la vie. 
-J'ai moi-même développé un [petit utilitaire sur-mesure](https://github.com/s-petit/birthday-pal) pour ne jamais oublier les anniversaires de mes proches. Il me permet de me libérer l'esprit, de mieux anticiper, et donc, d'être plus productif.
+J'ai moi-même développé un [petit utilitaire sur-mesure](https://github.com/s-petit/birthday-pal) pour ne jamais oublier les anniversaires de mes proches. 
+Il me permet de me libérer l'esprit, de mieux anticiper, et donc, d'être plus productif.
 
 Encore une fois, il n'y a pas de recette miracle. Une fois que vous seriez conscients que certaines routines peuvent être améliorées, vous trouverez naturellement les solutions qui vous permettront de les optimiser ou automatiser
 
@@ -115,18 +124,35 @@ Sinon j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simpl
 - Méthodes ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero))
 - Prise de notes : Il existe des dizaines de solutions en ligne et hors ligne pour saisir du texte, donc n'importe quelle solution de Drive (J'utilise celle de [Synology](https://www.synology.com/en-us/dsm/feature/drive)) fait l'affaire.
 - Mail / Agenda / Contacts : On peut utiliser des solutions différentes pour ces 3 aspects, mais je trouve bien plus les solutions "tout-en-un" bien plus efficaces. [Fastmail](https://www.fastmail.com) marche très bien.
-- TODOLIST : [Todoist](https://todoist.com) est pour moi une des solutions les plus complètes du marché. La version premium est payante mais apporte un vrai plus dans la gestion des tâches. Elle facilite notamment la prise de notes relative aux tâches que vous devez traiter.
+- Gestion des tâches : [Todoist](https://todoist.com) est pour moi une des solutions les plus complètes du marché. La version premium est payante mais apporte un vrai plus dans la gestion des tâches. Elle facilite notamment la prise de notes relative aux tâches que vous devez traiter.
 - Stockage / Organisation: Egalement, il existe de nombreuses solutions de stockage de fichiers, notamment dans le Cloud. Personnellement, j'utilise un NAS Synology qui me satisfait pleinement et qui me permet de garder le contrôle de mes données. 
 
 J'apprécie également des outils comme [Trello](https://trello.com/) ou encore [Basecamp](https://basecamp.com/) qui sont très bien faits, mais qui sont selon moi plus adaptés à une utilisation collaborative.
 
 ## Petit encart sur ma methode
 
-tourne autour des mails et de la todolist.
+Personnellement, ma méthodologie se base donc sur les principes que je cite ci-dessus.
 
-attention, le mail n'est pas une todolist. Maias certains mails peuvent necessiter une action de votre part ou attente de retour 
+Elle n'a rien de compliqué, elle consiste à tenter d'être le plus minimaliste possible et de supprimer un maximum de bruit, dans un monde où nous sommes submergés d'informations.
 
-Personnellement, j'essaie d'avoir le moins de taches et mails possibles en cours, j'essaie de les traiter tout de suite.
+Que ce soit dans ma boîte de reception, le stockage de mes fichiers, ou encore ma liste de tâches, je cherche à ce que le nombre d'éléments "en cours" tende vers zéro.
+
+Des emails ou des fichiers intéressants ? Je les stocke dans les répertoires adaptés, où je pourrai les retrouver ultérieurement en cas de besoin. Tout le reste est supprimé immédiatement.
+Pareil pour ma liste de tâches, au jour le jour, soit je les traite, soit je les reporte à une date réaliste et raisonnable. Le tout est d'avoir éliminé tous les items du jour.
+
+Une boîte de réception avec des milliers d'emails non lus est totalement contre-productif, en plus d'apporter un sentiment d'oppression à son utilisateur qui peut se sentir submergé par cette montagne d'informations, qui est le plus souvent inutile.
+
+On peut faire une analogie avec le cerveau. Dès que j'ai une idée ou une tâche ultérieure à effectuer, j'évite l'accumulation d'informations aussi vite que possible en créant une tâche ou en prenant des notes.
+
+Cela à pour but de me libérer l'esprit, de me donner l'impression d'avancer tout en ayant une productivité intéressante.
+
+Mais tout tourne autour d'une bonne organisation et de la non-procrastination. ---> CONCLUSION ?
+
+A voir si il ne faut pas minimiser la prise de ntoes au profit de l'organisation !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Mais encore une fois, ce n'est pas forcément la méthode la plus optimale ou adaptée pour tout le monde. C'est simplement celle qui me permet de booster ma productivité tout en générant le moins de frustration possible.
+
+
 
 Articles suivants possibles :  
 
@@ -163,3 +189,8 @@ Autres (DS Note...)
 
 
 Sinon j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simplicité et son côté accessible de partout. Sinon, 
+
+
+attention, le mail n'est pas une todolist. Maias certains mails peuvent necessiter une action de votre part ou attente de retour 
+
+Personnellement, j'essaie d'avoir le moins de taches et mails possibles en cours, j'essaie de les traiter tout de suite.
