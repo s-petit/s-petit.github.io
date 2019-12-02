@@ -52,12 +52,12 @@ Comment la reporter ? Être certain de ne pas l'oublier, et de la traiter Le plu
 
 2. Organisation & gestion des informations 
 
-Cette étape est selon moi un autre aspect indispensable pour améliorer sa productivité, quelle que soient les méthodes que vous utiliserez.
+Cette étape est selon moi un autre aspect indispensable pour améliorer sa productivité, quelles que soient les méthodes que vous utiliserez.
 
-Il est primordial de pouvoir stocker, regrouper et classer tous vos documents papier et votre vie numérique. Le tout est de retrouver tous vos documents facilement. 
+Il est primordial de stocker, regrouper et classer tous vos documents papier et votre vie numérique. Le tout est de pouvoir retrouver tous vos documents facilement. 
 
 Pièces d'identité, Fiches de paie, relevés bancaires et d'imposition, et tant d'autres documents font partie de ces informations que vous devez absolument trier et ranger.
-Les numériser ou encore les rendre disponibles sur Internet est un grand plus, afin de pouvoir les retrouver, peu importe la date et l'endroit où vous vous situez.
+Les numériser ou encore les rendre disponibles par Internet est un grand plus, afin de pouvoir les retrouver, peu importe la date et l'endroit où vous vous situez.
 
 De manière générale, plus votre ordinateur sera organisé, plus vous serez efficace. 
 Pour vérifier cela il suffit de regarder vos répertoires les plus utilisés, comme le Bureau, les documents, les téléchargements. Idéalement, ces dossiers fourre-tout devraient être vides. 
@@ -78,23 +78,24 @@ Sur les idées et informations, elle permet une formalisation et une mise en for
 
 Peu importe le contexte, toute information ou idée qui vous paraît pertinente mérite d'être notée. Et le retour sur investissement est vraiment très rapide. Une fois que l'on prend l'habitude, cela change vraiment la vie !
 
-3. Optimisation
+4. Optimisation
 
 Le dernier point que j'estime essentiel, c'est le fait de régulièrement prendre du recul et se remettre en question afin de pouvoir optimiser notre productivité.
 
-Même en ayant trouvé l'organisation qui vous convient, il y aura forcément des situations qui auront généré de la frustration (perte de temps, lassitude, à cause du côté répétitif, fastidieux de la tâche).alors il y a probablement quelque chose à faire pour atténuer cela.
+Même en ayant trouvé l'organisation qui vous convient, il y aura forcément des situations qui auront généré de la frustration (perte de temps, lassitude, tâches répétitives ou fastidieuses...). 
+A partir du moment où ce constat existe, il y a probablement quelque chose à faire pour atténuer cela.
 
-C'est normal, et cela arrivera continuellement. Le tout est de pouvoir s'améliorer en continu, à l'instar de ce que propose la plupart des méthodes agiles.
+Cette situation est normale, et cela arrivera régulièrement. Le tout est de pouvoir s'améliorer en continu, à l'instar de ce que propose la plupart des méthodes agiles.
 
-La plupart du temps, ces frustrations sont fortement liées aux deux points ci-dessus. Une prise de notes insuffisante ou un report inopportun pourra rendre un certain nombre de vos tâches plus pénibles.
+La plupart du temps, ces frustrations sont fortement liées aux deux points ci-dessus. Une organisation perfectible, un prise de notes insuffisante ou un report inopportun pourra rendre un certain nombre de vos tâches plus pénibles.
 
 Le caractère répétitif ou fastidieux d'une tâche peut souvent être amélioré avec une utilisation plus adaptée des nombreux outils qui existent. Connaissez-vous toutes les fonctionnalités qu'ils proposent ? L'utilisez-vous de façon optimale ? Êtes-vous assez précis dans la saisie de votre tâche et de son rappel automatique ?
 
-En tant que développeur, nous pouvons également développer des petits scripts ou applications sur mesure permettant de nous simplifier la vie. 
+En tant que développeurs, nous pouvons également développer des petits scripts ou applications sur mesure permettant de nous simplifier la vie. 
 J'ai moi-même développé un [petit utilitaire sur-mesure](https://github.com/s-petit/birthday-pal) pour ne jamais oublier les anniversaires de mes proches. 
 Il me permet de me libérer l'esprit, de mieux anticiper, et donc, d'être plus productif.
 
-Encore une fois, il n'y a pas de recette miracle. Une fois que vous seriez conscients que certaines routines peuvent être améliorées, vous trouverez naturellement les solutions qui vous permettront de les optimiser ou automatiser
+Encore une fois, il n'y a pas de recette miracle. Une fois que vous seriez conscients que certaines routines peuvent être améliorées, vous trouverez naturellement les solutions qui vous permettront de les optimiser ou automatiser.
 
 ## Utiliser les bons outils et methodos  
 
