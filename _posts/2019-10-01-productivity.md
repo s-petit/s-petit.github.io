@@ -14,7 +14,7 @@ Plus nous avons d'objectifs, plus nous allons mettre du temps à les réaliser, 
 
 C'est pour cela qu'une bonne productivité va nous aider à aller plus vite, à être plus efficace. A atteindre nos objectifs plus tôt. A nous offrir un sentiment de satisfaction pour chaque réalisation.  
 
-De nombreuses méthodes existent déja, notamment ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero))
+De nombreuses méthodes existent déjà, notamment ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero))
 Elles ont toutes leurs spécificités, leurs avantages et inconvénients. Elles demandent surtout un certain investissement pour les appréhender, puis les appliquer. Et tout le monde n'y trouvera pas forcément son compte.
 Avec du recul, je me suis rendu compte qu'il n'y a pas de recette magique. Chaque individu possède son propre rythme, et ses propres objectifs. 
 L'enjeu selon moi est de trouver sa propre méthode, sa propre routine, celle qui sera sur mesure pour accomplir ses objectifs dans un rythme que l'on estimera satisfaisant.
@@ -32,7 +32,7 @@ Au final, tout est une question de discipline et d'organisation. Voici les 4 (pl
 1. Procrastination  
 
 Au risque d'enfoncer des portes ouvertes, le plus grand ennemi de la productivité est la procrastination. C'est quelque chose que nous expérimentons tous au quotidien.  
-Qu'il peut parfois être difficile de traîter une tâche alors que la journée est déjà bien remplie, ou que l'on peut faire des choses bien plus intéressantes à la place !  
+Qu'il peut parfois être difficile de traiter une tâche alors que la journée est déjà bien remplie, ou que l'on peut faire des choses bien plus intéressantes à la place !  
 
 Et pourtant, combien de fois nous avons été pris au dépourvu par une tâche qui devient difficile ou urgente à effectuer alors qu'au moment où nous l'avions reportée, les conditions étaient idéales pour la traiter.  
 
@@ -72,27 +72,26 @@ Si c'est une tâche à faire ultérieurement, cela vous permettra entre autres d
 Si c'est une information que vous avez apprise, cela vous permettra de la retrouver en un temps très réduit en cas de besoin.
 Si c'est une production intellectuelle en cours, cela vous permettra de capitaliser sur la reflexion en cours et de gagner du temps une fois que vous aurez besoin de vous remettre dans le contexte ("où en étais-je deja ?" "Pourquoi ai-je fait ça ?")
 
-Une prise de notes régulière possède beaucoup d'autres avantages.
-
-Sur les idées et informations, elle permet une formalisation et une mise en forme qui leur apporte encore plus de valeur. Et en général, on enrichit ces données avec des informations complémentaires. 
+// !! a relire
+Une prise de notes régulière possède beaucoup d'autres avantages. Elle permet de formaliser, mettre en forme vos idées, ou encore anticiper de futures problématiques, ce qui leur apporte encore plus de valeur. Et en général, on enrichit ces données avec des informations complémentaires. 
 
 Peu importe le contexte, toute information ou idée qui vous paraît pertinente mérite d'être notée. Et le retour sur investissement est vraiment très rapide. Une fois que l'on prend l'habitude, cela change vraiment la vie !
 
-4. Optimisation
+3. Optimisation
 
 Le dernier point que j'estime essentiel, c'est le fait de régulièrement prendre du recul et se remettre en question afin de pouvoir optimiser notre productivité.
 
 Même en ayant trouvé l'organisation qui vous convient, il y aura forcément des situations qui auront généré de la frustration (perte de temps, lassitude, tâches répétitives ou fastidieuses...). 
 A partir du moment où ce constat existe, il y a probablement quelque chose à faire pour atténuer cela.
 
-Cette situation est normale, et cela arrivera régulièrement. Le tout est de pouvoir s'améliorer en continu, à l'instar de ce que propose la plupart des méthodes agiles.
+Cette situation est normale, et cela arrivera régulièrement. Le tout est de pouvoir s'améliorer en continu.
 
 La plupart du temps, ces frustrations sont fortement liées aux deux points ci-dessus. Une organisation perfectible, un prise de notes insuffisante ou un report inopportun pourra rendre un certain nombre de vos tâches plus pénibles.
 
 Le caractère répétitif ou fastidieux d'une tâche peut souvent être amélioré avec une utilisation plus adaptée des nombreux outils qui existent. Connaissez-vous toutes les fonctionnalités qu'ils proposent ? L'utilisez-vous de façon optimale ? Êtes-vous assez précis dans la saisie de votre tâche et de son rappel automatique ?
 
 En tant que développeurs, nous pouvons également développer des petits scripts ou applications sur mesure permettant de nous simplifier la vie. 
-J'ai moi-même développé un [petit utilitaire sur-mesure](https://github.com/s-petit/birthday-pal) pour ne jamais oublier les anniversaires de mes proches. 
+J'ai moi-même développé un [petit utilitaire](https://github.com/s-petit/birthday-pal) pour ne jamais oublier les anniversaires de mes proches. 
 Il me permet de me libérer l'esprit, de mieux anticiper, et donc, d'être plus productif.
 
 Encore une fois, il n'y a pas de recette miracle. Une fois que vous seriez conscients que certaines routines peuvent être améliorées, vous trouverez naturellement les solutions qui vous permettront de les optimiser ou automatiser.
@@ -103,34 +102,31 @@ Une fois que vous avez ces 3 points bien en tête, il vous reste à trouver les 
 
 Ces outils vous seront indispensables pour vous assister dans votre organisation personnelle et booster la productivité. Leurs apports sont nombreux, avec entre autres :
 
+- Organisation et gestion de votre temps (agenda, tâches...)
+- Avoir des rappels automatiques
 - Aider à la prise de notes
-- Se faire rappeler
-- Historiser / Archiver
-- Catégoriser / Prioriser
-- Anticiper
 
-C'est à vous de trouver quels outils sont les plus adaptés à votre besoin. 
-
-Toutes les données concernant notre productivité et nos tâches sont extrêmement personnelles. 
-J'essaie de limiter les GAFAM au maximum, et de privilégier les solutions auto-hébergées plutôt que le Cloud. 
-C'est pour cela que j'utilise des outils proposés par mon NAS ou en SAAS par des sociétés plus modestes. 
-Evidemment, votre Géant de l'Internet préféré propose des outils équivalents, mais je vous conseille vivement de réfléchir à 2 fois avant de leur confier vos données.
-
-Sinon j'apprécie particulièrement [Gist](http://gist.github.com) pour sa simplicité et son côté accessible de partout. Sinon, 
+C'est à vous de trouver quels outils sont les plus adaptés à votre besoin. En général, on a les catégories d'outils suivantes :
 
 - Méthodes ([Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640), [GTD](https://gettingthingsdone.com/), [Inbox Zero](https://blog.trello.com/fr/inbox-zero))
-- Prise de notes : Il existe des dizaines de solutions en ligne et hors ligne pour saisir du texte, donc n'importe quelle solution de Drive (J'utilise celle de [Synology](https://www.synology.com/en-us/dsm/feature/drive)) fait l'affaire.
-- Mail / Agenda / Contacts : On peut utiliser des solutions différentes pour ces 3 aspects, mais je trouve bien plus les solutions "tout-en-un" bien plus efficaces. [Fastmail](https://www.fastmail.com) marche très bien.
-- Gestion des tâches : [Todoist](https://todoist.com) est pour moi une des solutions les plus complètes du marché. La version premium est payante mais apporte un vrai plus dans la gestion des tâches. Elle facilite notamment la prise de notes relative aux tâches que vous devez traiter.
-- Stockage / Organisation: Egalement, il existe de nombreuses solutions de stockage de fichiers, notamment dans le Cloud. Personnellement, j'utilise un NAS Synology qui me satisfait pleinement et qui me permet de garder le contrôle de mes données. 
+- Stockage / Organisation des données
+- Prise de notes
+- Mail / Agenda / Contacts (On peut utiliser des solutions différentes pour ces 3 aspects, mais je trouve bien plus les solutions "tout-en-un" bien plus efficaces. [Fastmail](https://www.fastmail.com) marche très bien.)
+- Gestion des tâches ([Todoist](https://todoist.com) est pour moi une des solutions les plus complètes du marché. La version premium est payante mais apporte un vrai plus dans la gestion des tâches. Elle facilite notamment la prise de notes relative aux tâches que vous devez traiter.)
 
 J'apprécie également des outils comme [Trello](https://trello.com/) ou encore [Basecamp](https://basecamp.com/) qui sont très bien faits, mais qui sont selon moi plus adaptés à une utilisation collaborative.
 
+Il est important de rappeler que la majorité des données concernant notre productivité et nos tâches sont extrêmement personnelles. 
+Personnellement, j'essaie de limiter les GAFAM au maximum, en trouvant des alternatives plus éthiques, en auto-hébergé (NAS) ou en SAAS dans le Cloud. 
+Évidemment, votre Géant de l'Internet préféré propose des outils équivalents, mais je vous conseille vivement de réfléchir à 2 fois avant de leur confier vos données.
+
+C'est moins problématique pour les données moins sensibles. Par exemple, j'aime beaucoup [Github](http://github.com) et [Gist](http://gist.github.com) pour stocker et accéder à mon code et mes notes techniques. 
+
 ## Petit encart sur ma methode
 
-Personnellement, ma méthodologie se base donc sur les principes que je cite ci-dessus.
+Vous l'aurez deviné, ma méthodologie se base donc sur les principes que je cite ci-dessus.
 
-Elle n'a rien de compliquée, elle consiste à tenter d'être le plus minimaliste possible et de supprimer un maximum de bruit, dans un monde où nous sommes submergés d'informations.
+Elle consiste à tenter d'être le plus minimaliste possible et de supprimer un maximum de bruit, dans un monde où nous sommes submergés d'informations.
 
 Que ce soit dans ma boîte de reception, le stockage de mes fichiers, ou encore ma liste de tâches, je cherche à ce que le nombre d'éléments "en cours" tende vers zéro.
 
@@ -139,7 +135,9 @@ Pareil pour ma liste de tâches, au jour le jour, soit je les traite, soit je le
 
 Une boîte de réception avec des milliers d'emails non lus est totalement contre-productif, en plus d'apporter un sentiment d'oppression à son utilisateur qui peut se sentir submergé par cette montagne d'informations, qui est le plus souvent inutile.
 
-On peut faire une analogie avec le cerveau. Dès que j'ai une idée ou une tâche ultérieure à effectuer, j'évite l'accumulation d'informations aussi vite que possible en créant une tâche ou en prenant des notes.
+On peut faire une analogie avec le cerveau. Dès que j'ai une idée ou une tâche ultérieure à effectuer, je crée une tâche ou je prends des notes pour ainsi éviter l'accumulation d'informations aussi vite que possible.
+
+// !! je me suis arrêté ici
 
 Cela permet de libérer l'esprit, de donner l'impression d'avancer tout en ayant une productivité intéressante.
 
@@ -147,7 +145,9 @@ Mais tout tourne autour d'une bonne organisation et de la non-procrastination. -
 
 Mais encore une fois, ce n'est pas forcément la méthode la plus optimale ou adaptée pour tout le monde. C'est simplement celle qui me permet de booster ma productivité tout en générant le moins de frustration possible.
 
-### Trouver son "rythme"
+### Trouver son "rythme" / trouver sa recette sa methode perso
+
+beaucou d'iterations, essayer des chosesm, changer, s'ameliorer
 
 La notion de productivité est quelque chose de personnel, et le besoin d'efficacité est très différents selon les individus. Certains sont très instinctifs et se complaisent dans l'improvisation, en gardant un haut niveau d'efficacité.
 La quantité de tâches et d'objectifs nécessaires à un sentiment d'accomplissement suffisant est aussi très variable.
@@ -172,7 +172,7 @@ Si la tâche est plus complexe ou fastidieuse, c'est un peu plus compliqué
 exemple de moi avec les billet blogs, comment se faire violence  
 
 
-L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (necessité) ou envie de faire.  
+L'essence d'une TODOLIST : Ce sont des choses que nous devons faire (nécessité) ou envie de faire.  
 Parler du devoir faire et envie de faire ?
 
 Concernant les tâches, elle permet notamment de:
