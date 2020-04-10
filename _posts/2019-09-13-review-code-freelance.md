@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Freelance, le livre qui démystifie le freelancing"
-tags: [freelance, entrepreneuriat, développeur, accomplissement personnel]
+tags: [indépendant, développeur, accomplissement personnel]
 ---
 
 Il y a quelques semaines de cela, Emilien Pecoul ([@Ouarzy](https://twitter.com/Ouarzy)), un développeur Lyonnais assez actif dans la communauté, a publié un livre consacré au freelancing : 
