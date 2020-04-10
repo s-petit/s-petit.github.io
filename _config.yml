@@ -2,7 +2,7 @@
 title: Enjoy Code
 description:
 baseurl: # the subpath of your site, e.g. /blog
-
+port: 4001
 url: "https://s-petit.github.io"
 github:
   url:               "https://s-petit.github.io"
