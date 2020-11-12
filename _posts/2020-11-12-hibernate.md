@@ -6,7 +6,7 @@ tags: [Java, SQL, Hibernate, performance]
 
 Dans ce post, j'aimerais vous parler de bonnes pratiques **Hibernate**. Le sujet semble éculé, tant cette technologie existe depuis longtemps. Il existe déjà par ailleurs de nombreuses ressources permettant de bien comprendre le framework.
 
-Pourtant, en 2020, le sujet me semble encore d'actualité, car Hibernate est toujours massivement utilisé dans de nombreux projets Java. Et il est la plupart du temps mal utilisé. 
+Pourtant, en 2020, le sujet me semble encore d'actualité, car Hibernate est toujours massivement utilisé dans de nombreux projets Java. Et il est souvent mal utilisé. 
 
 Une majorité des problèmes de performances que j'ai pu rencontrer dans ma carrière étaient liés à des interactions entre l'application et la base de données, et à une méconnaissance des bonnes pratiques Hibernate et SQL.
 
