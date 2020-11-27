@@ -172,7 +172,7 @@ Un exemple possible, qui instancie un DTO directement à partir de la requête :
       .createQuery("select " +
           "new com.mycompany.dto.EmployeeDto(employee.id, employee.name, department.name) " +
           "from Employee employee " +
-          "join fetch Department department on employee.departmentId = department.id " +
+          "join Department department on employee.departmentId = department.id " +
           "where department.name = :departmentName " +
           "order by employee.name"
         , EmployeeDto.class);
