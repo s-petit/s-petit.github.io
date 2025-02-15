@@ -22,7 +22,7 @@ Je me décide à lancer ce blog, car il va m'aider à approfondir certains thèm
 
 Pour en savoir plus sur moi:
 
-- [Mon CV](cv2025.pdf){:target="_blank"}
+- [Mon CV](cv2025v2.pdf){:target="_blank"}
 - [Mon Github](https://github.com/{{ site.author.github }}){:target="_blank"}
 - [Mon profil Linkedin](https://linkedin.com/in/{{ site.author.linkedin }}){:target="_blank"}
 - [Mon profil Malt](https://www.malt.fr/profile/stephanepetit){:target="_blank"}
