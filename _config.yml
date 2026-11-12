@@ -1,6 +1,7 @@
 # Jekyll Defaults
 title: Enjoy Code
-description:
+description: "Blog de Stéphane Petit, développeur : Java, Hibernate, SQL, programmation fonctionnelle et retours d'expérience de freelance."
+lang: fr_FR
 baseurl: # the subpath of your site, e.g. /blog
 port: 4001
 url: "https://s-petit.github.io"
@@ -12,13 +13,27 @@ author:
   twitter:           "spetit95"
   github:            "s-petit"
   linkedin:          "stéphane-petit-a61b8b99"
+twitter:
+  username:          spetit95
+social:
+  name:              "Stéphane Petit"
+  links:
+    - "https://github.com/s-petit"
+    - "https://twitter.com/spetit95"
+    - "https://www.linkedin.com/in/stéphane-petit-a61b8b99"
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
 paginate: 5
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 paginate_path: "/page:num"
 rss_path: /feed.xml
+# Les CV restent téléchargeables depuis « À propos », mais hors du sitemap : pas d'indexation directe des PDF.
+defaults:
+  - scope:
+      path: "about/*.pdf"
+    values:
+      sitemap: false
 disqus: "enjoy-code"
 navigation:
 - text: A propos de l'auteur
@@ -28,6 +43,6 @@ navigation:
 - text: Tags
   url: /tags/
 
-# May be useful in order to deploy future posts in localhost
-future: true
+# Articles datés dans le futur : seulement en local (jekyll serve --future), jamais en production.
+future: false
 

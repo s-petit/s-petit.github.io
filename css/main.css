@@ -2,10 +2,6 @@
 	http://localhost:4000/css/main.css */
 
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:300,500,100,300italic);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans+Mono);
-@import url(https://fonts.googleapis.com/css?family=Raleway:800);
 * {
     margin: 0px;
     padding: 0px;
@@ -35,7 +31,8 @@ header {
     padding-bottom: 20px;
     padding-top: 20px;
 }
-header h1 {
+header .site-title {
+    display: block;
     padding-top: 1em;
     font-weight: bold;
     font: 1em -apple-system-headline, "Droid Sans Mono", Courier, mono;
@@ -43,13 +40,13 @@ header h1 {
     margin-left: 25px;
     padding-bottom: 2.1em;
 }
-header h1 a {
+header .site-title a {
     color: #ffffff;
     font-size: 32px;
     background-color: #0f2e57;
     padding: 10px 13px;
 }
-header h1 a:hover {
+header .site-title a:hover {
     color: #76a0dd;
 }
 #nav_container {
@@ -90,6 +87,11 @@ nav ul li a:hover {
     text-transform: uppercase;
     margin-top: 1.2em;
     margin-bottom: 1.3em;
+}
+/* Titre d'article en h1 : garder l'apparence de l'ancien div.heading malgré la règle #main h1 */
+#main h1.heading {
+    font-family: Raleway, Helvetica;
+    color: inherit;
 }
 .heading a {
     color: #126ab1;
